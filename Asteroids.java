@@ -1412,23 +1412,4 @@ public class Asteroids extends Applet implements Runnable, KeyListener {
 
         g.drawImage(offImage, 0, 0, this);
     }
-
-    public class Ship{
-
-    }
-
-    public class Enemies{
-    }
-
-    public class GUI{
-    }
-
-    public class Controls{
-    }
-
-    public class Sound{
-
-    }
-    public class GamePlay{
-    }
 }
