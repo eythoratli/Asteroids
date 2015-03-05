@@ -1,6 +1,8 @@
 /******************************************************************************
  Asteroids, Version 1.3
 
+J_SJOMLEEE
+
  Copyright 1998-2001 by Mike Hall.
  Please see http://www.brainjar.com for terms of use.
 
