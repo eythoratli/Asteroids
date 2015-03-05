@@ -20,6 +20,7 @@
  1.3,  01/25/2001: Updated to JDK 1.1.8.
 
  LEEDS UNITED!!!!!
+ BEST TEAM IN THE WORLD!!!
  Usage:
 
  <applet code="Asteroids.class" width=w height=h></applet>

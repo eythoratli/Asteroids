@@ -28,8 +28,8 @@
       <file leaf-file-name="Asteroids.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Asteroids.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2866242" vertical-offset="0" max-vertical-offset="21315">
-              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.45382166" vertical-offset="0" max-vertical-offset="21330">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -347,12 +347,12 @@
       <updated>1425564963355</updated>
       <workItem from="1425564964055" duration="49000" />
       <workItem from="1425565038868" duration="12000" />
-      <workItem from="1425565065697" duration="96000" />
+      <workItem from="1425565065697" duration="167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157000" />
+    <option name="totallyTimeSpent" value="228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="738" extended-state="6" />
@@ -423,8 +423,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Asteroids.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2866242" vertical-offset="0" max-vertical-offset="21315">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.45382166" vertical-offset="0" max-vertical-offset="21330">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding />
         </state>
       </provider>
